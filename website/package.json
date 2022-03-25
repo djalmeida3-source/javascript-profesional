@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript de Platzi.",
   "license": "MIT",
-  "author": "Richard B. Kaufman López <richardbkaufman@gmail.com>",
+  "author": "David Almeida <djalmeida3@gmail.com>",
   "keywords": [
     "platzi"
   ],
@@ -11,6 +11,7 @@
     "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
   },
   "devDependencies": {
+    "live-server": "^1.2.1",
     "parcel-bundler": "^1.12.3",
     "typescript": "^3.5.3"
   },
