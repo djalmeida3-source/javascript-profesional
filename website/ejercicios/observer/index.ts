@@ -51,4 +51,4 @@ const display = new PriceDisplay();
 
 value.subscribe(display);
 
-setTimeout(() => value.unsubscribe(display), 5000);
+setTimeout(() => value.unsubscribe(display), 3000);
