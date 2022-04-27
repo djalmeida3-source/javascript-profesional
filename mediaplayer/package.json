@@ -1,5 +1,5 @@
 {
-  "name": "@sparragus/platzimediaplayer",
+  "name": "@djalmeida3/platzimediaplayer",
   "version": "1.0.0",
   "description": "",
   "main": "lib/MediaPlayer.js",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^3.5.3"
+    "typescript": "^3.9.10"
   }
 }
